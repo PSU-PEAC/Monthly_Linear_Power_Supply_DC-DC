@@ -1,0 +1,129 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 6/29/2014 7:15:03 PM
+
+BeginCmp
+TimeStamp = /536CD0C3;
+Reference = C1;
+ValeurCmp = 100uF 50V;
+IdModule  = Elko_vert_DM10_RM2-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /536CD0D7;
+Reference = C2;
+ValeurCmp = 100uF 50V;
+IdModule  = Elko_vert_DM10_RM2-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /536CD253;
+Reference = C3;
+ValeurCmp = 100uF 50V;
+IdModule  = Elko_vert_DM10_RM2-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /5366A9AB;
+Reference = CON1;
+ValeurCmp = BARREL_JACK;
+IdModule  = JACK_ALIM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5366A3DE;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = 2PIN_6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5366A9A3;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = 2PIN_6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /536ADAF1;
+Reference = Q1;
+ValeurCmp = 2N3904;
+IdModule  = TO-92-Bipolar-inline-wide-EBC;
+EndCmp
+
+BeginCmp
+TimeStamp = /536ADAE4;
+Reference = Q2;
+ValeurCmp = 2N3904;
+IdModule  = TO-92-Bipolar-inline-wide-EBC;
+EndCmp
+
+BeginCmp
+TimeStamp = /536CEAC2;
+Reference = Q3;
+ValeurCmp = MJ4502;
+IdModule  = TO3;
+EndCmp
+
+BeginCmp
+TimeStamp = /536ADBBC;
+Reference = Q4;
+ValeurCmp = 2N3904;
+IdModule  = TO-92-Bipolar-inline-wide-EBC;
+EndCmp
+
+BeginCmp
+TimeStamp = /5366A844;
+Reference = R1;
+ValeurCmp = 0 to 10;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /5366A837;
+Reference = R2;
+ValeurCmp = 0 to 10;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /536B8032;
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /5366A285;
+Reference = R4;
+ValeurCmp = 10-25 (Sets Imax);
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /5385C440;
+Reference = R5;
+ValeurCmp = 1k;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /5366A2F5;
+Reference = RV1;
+ValeurCmp = 10k POT;
+IdModule  = Potentiometer_Bourns_3296W_3-8Zoll_Inline_ScrewUp;
+EndCmp
+
+BeginCmp
+TimeStamp = /5366A2B7;
+Reference = RV2;
+ValeurCmp = 10k POT;
+IdModule  = Potentiometer_Bourns_3296W_3-8Zoll_Inline_ScrewUp;
+EndCmp
+
+BeginCmp
+TimeStamp = /5366A4D1;
+Reference = U1;
+ValeurCmp = LM741;
+IdModule  = DIP-8__300;
+EndCmp
+
+EndListe
